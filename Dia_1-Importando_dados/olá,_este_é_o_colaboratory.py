@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
-print ('Hellow Word')
-
-print ('Hellow Word')
-
 import pandas as pd
 
 dados_2010_1 = pd.read_csv('https://github.com/ThalysonBastos/python_pandas/blob/main/Dia_1-Importando_dados/Datasets/dados_emprestimos/emprestimos-20101.csv?raw=true')
